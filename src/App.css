@@ -1,7 +1,5 @@
-body {
-  background-image: url("./assets/topography.svg"), linear-gradient(110deg, #ffffff, #0f0f0f);
-  background-size: 325px, auto;
-  background-attachment: fixed;
+/* body {
+  background-color: whitesmoke;
 }
 
 .App {
@@ -22,4 +20,4 @@ body {
 @font-face {
   font-family: yellowtail;
   src: url('./assets/Yellowtail-Regular.otf');
-}
+} */
